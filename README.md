@@ -19,4 +19,4 @@ Hiring
   - self-teaching: training costs two people's time, and is less effective than those who want to learn
   - ready to do whatever is needed.  "That's not my job" is never something they'd say.
   - look for people who have accomplished something exceptional, even if it's mundane.  
-  -   Hire the guy who built a computer from scratch over the guy with a PHD in computer science. 
+    -   Hire the guy who built a computer from scratch over the guy with a PHD in computer science. 
