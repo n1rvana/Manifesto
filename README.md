@@ -22,6 +22,7 @@ Hiring
     - only hire programmers who program because thats the way their brain formed. don't hire those who decided in college that it was a lucerative career
     - find people who enjoy helping others. the guy who always volunteers to chip in, have that person interview each candidate to find people who think first of the team, and of themselves second
     - hire slowly, contract with potential hires at a high hourly rate, if they work out bring them on full time. (there's a special place in hell for people who do contract-to-hire at regular salary)
+    - ABC: Attitude, Bandwidth, Communications - look for people with good attidue, high badwidth (eg: smart or hard worker) and good communications abilities. 
 
 Work Day
 ========
@@ -47,3 +48,9 @@ Planning
   - Measure progress on a bi-weekly or monthly basis. Any more frequently and you're going to be interfering with productivity in order to have something new to report each day.
   
   
+Interview Questions
+===================
+
+- What's the biggist misundersdtanding people outside <their area of expertise> have about <their area of expertise>?  - Look for PMA and ABC
+- 
+
