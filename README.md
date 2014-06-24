@@ -11,6 +11,18 @@ Meetings
 - All Meetings are optional, and open door.  This encourages brevety, and transparency.
   - The only exception are specific personnel issues.  Long term planning must be open to all stakeholders.
 
+Responsibility
+==============
+
+- Someone is responsible for everything.  They are accountable for the progress and quality in that area.  No one person can be a silo of all the information in an area.  Usually the person responsibe for the area is the one who will be doing the work and has the most on-the-ground experience and hands-on time with that area.  They must cross train another team member in that area.   The person who is responsible is responsible for hearing other team members input, and making the final say if there is disagreement.
+
+Disagreement
+============
+
+- If it can be practically measured, measure it and figure out who is right.
+- When judgement calls are made, defer to experience, but the experience also acrues responsibility for the outcome.
+- Someone should always have the final say, so that everything isn't always up for debate.
+
 Hiring
 ======
 
@@ -51,6 +63,6 @@ Planning
 Interview Questions
 ===================
 
-- What's the biggist misundersdtanding people outside <their area of expertise> have about <their area of expertise>?  - Look for PMA and ABC
+- What's the biggist misundersdtanding people outside *their area of expertise* have about *their area of expertise*?  - Look for PMA and ABC
 - 
 
