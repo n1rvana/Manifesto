@@ -81,6 +81,7 @@ The Design / Development Duality
   - Design is how it *works*, not how it *looks*. 
   - How it looks does, however, affect the user experience.
   - Before implementing a feature or product, it must be designed.
+  
     Including:
     - software architecture
     - user experience and user interface
