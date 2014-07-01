@@ -74,6 +74,19 @@ Planning
   
   - Measure progress on a bi-weekly or monthly basis. Any more frequently and you're going to be interfering with productivity in order to have something new to report each day.
   
+
+The Design / Development Duality
+================================
+
+  - Design is how it *works*, not how it *looks*. 
+  - How it looks does, however, affect the user experience.
+  - Before implementing a feature or product, it must be designed.
+    Including:
+    - software architecture
+    - user experience and user interface
+    - visual design
+    - product market fit analysis, evaluation of go-to-market strategy and marketing plans
+    - legal & business review
   
 Interview Questions
 ===================
