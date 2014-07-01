@@ -15,7 +15,12 @@ Meetings
 Responsibility
 ==============
 
-- Someone is responsible for everything.  They are accountable for the progress and quality in that area.  No one person can be a silo of all the information in an area.  Usually the person responsibe for the area is the one who will be doing the work and has the most on-the-ground experience and hands-on time with that area.  They must cross train another team member in that area.   The person who is responsible is responsible for hearing other team members input, and making the final say if there is disagreement.
+  - Responsibility always has authority attached
+  - Someone is responsible for everything.  They are accountable for the progress and quality in that area.  
+  - No one person can be a silo of all the information in an area.  
+  - Usually the person responsibe for the area is the one who will be doing the work and has the most on-the-ground   experience and hands-on time with that area.  
+  - They must cross train another team member in that area.   
+  - The person who is responsible is responsible for hearing other team members input, and making the final say if there is disagreement.
 
 Disagreement
 ============
