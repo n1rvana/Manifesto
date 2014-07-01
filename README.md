@@ -24,6 +24,12 @@ Hiring
     - find people who enjoy helping others. the guy who always volunteers to chip in, have that person interview each candidate to find people who think first of the team, and of themselves second
     - hire slowly, contract with potential hires at a high hourly rate, if they work out bring them on full time. (there's a special place in hell for people who do contract-to-hire at regular salary)
 
+Firing
+======
+
+  - people have one boss, that is there manager. their manager must be competent in the work that they do
+  - termination should never be a surprise, it should be the ultimate result of a series of attempts to correct problems
+
 Work Day
 ========
 
