@@ -45,8 +45,10 @@ Hiring
 Firing
 ======
 
-  - people have one boss, that is there manager. their manager must be competent in the work that they do
+  - people have one boss, that is their leader. their leader must be competent in the work that they do
   - termination should never be a surprise, it should be the ultimate result of a series of attempts to correct problems
+  - only the top level of a creative class reports to business (eg: the CTO's boss may not be an engineer, but all other
+    engineers have someone competent in engineering as their boss)
 
 Work Day
 ========
