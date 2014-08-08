@@ -55,6 +55,12 @@ Work Day
 
 - Software development requires mental acuity.  People should work when they are well rested.  Fixed schedules undermine productivity in software. 
 - interrupting engineers, especially by management when the building is not on fire is a firing offense
+
+Vacation
+========
+
+- Vacation is a benefit, and poilicies can vary, but once it is accrued it is a right.  Employees should be allowed to use their vacation when it is convenient to them, and if it is not convenient to the company, the employee is owed compensation (in additional vacation time) for asking employee to take vacation at a different time.
+
   
 Planning
 ========
