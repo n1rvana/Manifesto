@@ -59,8 +59,7 @@ Work Day
 Vacation
 ========
 
-- Vacation is a benefit, and poilicies can vary, but once it is accrued it is a right.  Employees should be allowed to use their vacation when it is convenient to them, and if it is not convenient to the company, the employee is owed compensation (in additional vacation time) for asking employee to take vacation at a different time.
-
+- Vacation is a benefit, and amounts may vary.  However, once time is accrued, it is the property of the employee.  The employee can take vacation whenever convenient to them.  If it is inconvenient to the company, they owe the employee compensation (in the form of additional vacation time) for changing the vacation dates.
   
 Planning
 ========
