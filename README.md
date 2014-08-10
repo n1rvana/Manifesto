@@ -9,7 +9,10 @@ Management
 First, a brief digression....
 
 All nerds should read this: http://michaelochurch.wordpress.com/2014/08/07/silicon-valley-may-not-be-fixable/
-20+ years expereince in startups has taught me one thing: non-technical people cannot successfully run tech companies.  Whereby "succes" I mean "the company succeeds due to its product."  Current silicon valley culture defines success as an "aquihire" or a "biz-engineered-competitive-merger".  This latter is what happens when a large company buys a small company that is disrupting its space.  If the small company is successfully disrupting, why did it sell out?  It could only become more valuable over time.  The answer to that is simple: Most of this success is fake, as silicon valley has a "fake it until you make it" cover.  Using VC capital to unprofitably buy revenues to enable raising even more VC capital at a valuation of a high multiple of revenues is just good business sense when your primary product is the companie's stock, not the BS app everyone thinks is your product. 
+
+20+ years expereince in startups has taught me one thing: non-technical people cannot successfully run tech companies.  Whereby "succes" I mean "the company succeeds due to its product."  
+Current silicon valley culture defines success as an "aquihire" or a "biz-engineered-competitive-merger".  This latter is what happens when a large company buys a small company that is disrupting its space.  If the small company is successfully disrupting, why did it sell out?  It could only become more valuable over time.  
+The answer to that is simple: Most of this success is fake, as silicon valley has a "fake it until you make it" cover.  Using VC capital to unprofitably buy revenues to enable raising even more VC capital at a valuation of a high multiple of revenues is just good business sense when your primary product is the companie's stock, not the BS app everyone thinks is your product. 
 
 So, the first rule of this manifesto is this:
 - The top dog will be an engineer.  
