@@ -4,6 +4,21 @@ Manifesto
 How software startups should operate.
 
 
+Management
+==========
+First, a brief digression....
+
+All nerds should read this: http://michaelochurch.wordpress.com/2014/08/07/silicon-valley-may-not-be-fixable/
+20+ years expereince in startups has taught me one thing: non-technical people cannot successfully run tech companies.  Whereby "succes" I mean "the company succeeds due to its product."  Current silicon valley culture defines success as an "aquihire" or a "biz-engineered-competitive-merger".  This latter is what happens when a large company buys a small company that is disrupting its space.  If the small company is successfully disrupting, why did it sell out?  It could only become more valuable over time.  The answer to that is simple: Most of this success is fake, as silicon valley has a "fake it until you make it" cover.  Using VC capital to unprofitably buy revenues to enable raising even more VC capital at a valuation of a high multiple of revenues is just good business sense when your primary product is the companie's stock, not the BS app everyone thinks is your product. 
+
+So, the first rule of this manifesto is this:
+- The top dog will be an engineer.  
+  - A real engineer.  This includes the likes of Gates and Jobs both of whom can code
+  - Engineers can learn business.  Business is easy.
+  - Connections are useful if your currency is pull, but if you're building a product, you can generate your own connections.
+  - Technologists, such as Tim Cook are acceptable. But note that Tim Cook spent decades mastering worldwide supply chain management before leading a company. Hiring an MBA in the bottom half of their class (eg: the typical Silicon Valley CEO) is not the same thing.
+- Business people can be on the board, only if they have at least 15 years experience in a key operational area of the company. 
+- Technologists, Engineers, Operations and Product people must have a majority of the voting power of the board of directors.  If your VC wants a seat, they better put up a competent engineer for it, and really should be extending your runway by close to %80 or more.
 
 Meetings
 ========
