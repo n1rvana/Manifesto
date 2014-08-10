@@ -65,8 +65,7 @@ Firing
 
   - people have one boss, that is their leader. their leader must be competent in the work that they do
   - termination should never be a surprise, it should be the ultimate result of a series of attempts to correct problems
-  - only the top level of a creative class reports to business (eg: the CTO's boss may not be an engineer, but all other
-    engineers have someone competent in engineering as their boss)
+  - no creative class employees (eg: engineers, designers) report to someone who isn't also a createive class.  EG: no "business bosses".  MBAs and the like can only manage other business "types", and must ultimatley report to a member of a creative class.
 
 Work Day
 ========
@@ -78,6 +77,8 @@ Vacation
 ========
 
 - Vacation is a benefit, and amounts may vary.  However, once time is accrued, it is the property of the employee.  The employee can take vacation whenever convenient to them.  If it is inconvenient to the company, they owe the employee compensation (in the form of additional vacation time) for changing the vacation dates.
+- The interest rate on vacation is 1 day per week delay.  Thus if an employee wants to take a day of vacation, and you ask them to delay it three weeks, they accrue three bonus days, and can take all 4 days at once.
+- If this is inconveneint for product development schedules, your organization is poorly run.
   
 Planning
 ========
