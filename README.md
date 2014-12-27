@@ -12,6 +12,11 @@ Meetings
   - Long term planning is open to all stakeholders.
   - The only exception are specific personnel issues.  
 
+Geography
+=========
+
+- Startups are high risk.  They shouldn't be "all in" propositions, and at the same time, there are more intelligent people that don't live where you are than tehre are right here.  So, hire globall, build a distributed team.  Your employees are allowed to work wherever makes them happiest and most productive.  
+
 Hiring
 ======
 
@@ -57,7 +62,9 @@ Planning
   
 Fund Raising
 ============
-
+- Don't do it unless you have to.  Prefer equity free sources:  Kickstarter, government programs, loans, Friends & Family, bootstrapping, roughing it, over taking money. Taking money from an investor should be the last resort, not the first.
+- There are four stages to a company:  WTF? PRoduct, Traction, Grwoth.  Investments are best in the growth stage, while al ittle money in Traction can be ok.  Get from idea to product without giving up equity and you have a good chance of making it out alive.
+- Biggest danger in fund raising is destroying the company. Investors (particularly in the bay area) are incentivized by "go big or go home" attitude. They would rather a 1 in a billion shot at a billion dollar company than a 1 in 10 shot at a 10 million dollar company.  Rationally the former is worth $1 while the latter is worth $1 million.  This means they will force you to bet it all, all teh time.  It's like playing Texas Holdem with someone elses money and he makes you go all in every hand. 
 - In every round, take money off of the table.  Two reaosns for this: 1) it allows founders to focus on teh long term value of the company and not be tempted to sell by the fact that tehy can't afford ramen.  2) It's a good litmus test for investors.  Bad investors won't agree to this becauset tehy want a liquidity even for the whole company.
 - Never make a specific decision simply because an investor made an investmetn dependant on it.  This is another litmus test.  Investors have the right to have an opinion about traction, valuation and the like.  Not specific prodcut or company choices, though they can provide feedback.
 - All shareholders participate equally. ALL.  Investor money is no more valuable than sweat equity.  Deals should be short and sweet without a lot of rachets, double dipping and boiler plate that puts the company and the founders over a barrel. 
