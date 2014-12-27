@@ -55,3 +55,9 @@ Planning
   - Measure progress on a bi-weekly or monthly basis. Any more frequently and you're going to be interfering with productivity in order to have something new to report each day.
   
   
+Fund Raising
+============
+
+- In every round, take money off of the table.  Two reaosns for this: 1) it allows founders to focus on teh long term value of the company and not be tempted to sell by the fact that tehy can't afford ramen.  2) It's a good litmus test for investors.  Bad investors won't agree to this becauset tehy want a liquidity even for the whole company.
+- Never make a specific decision simply because an investor made an investmetn dependant on it.  This is another litmus test.  Investors have the right to have an opinion about traction, valuation and the like.  Not specific prodcut or company choices, though they can provide feedback.
+- All shareholders participate equally. ALL.  Investor money is no more valuable than sweat equity.  Deals should be short and sweet without a lot of rachets, double dipping and boiler plate that puts the company and the founders over a barrel. 
